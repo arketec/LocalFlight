@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "nbn",
+    "bsb",
+    "nbn"
+  ],
+  "key":
+  {
+    "n":
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    "b":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "s":
+    {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result":
+  {
+    "item": "localflight:controller",
+    "count": 1
+  }
+}
